@@ -11,9 +11,5 @@ AI and software engineer from Quito, Ecuador. Machine learning, LLM agents and q
 
 **Stack**: Python, Java, TypeScript, PyTorch, LangGraph, Spring Boot, React, Docker
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericson3100/Ericson3100/output/snake-dark.svg"/>
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Ericson3100/Ericson3100/output/snake-light.svg"/>
-</picture>
 
 [LinkedIn](https://www.linkedin.com/in/ericson-lopez)
